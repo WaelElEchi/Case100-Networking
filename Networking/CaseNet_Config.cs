@@ -2,7 +2,7 @@
 {
     //connection configuration
 
-    public static int gamePort = 40001;
+    public static int gamePort = 40005;
     public static int MAX_CONNEXIONS = 100;
     public static int MAX_BYTE_SIZE = 1024;
 

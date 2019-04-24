@@ -19,4 +19,5 @@
     public const int KickMessage = 16;
     public const int ImScreenMessage = 17;
     public const int ResumeGameMessage = 18;
+    public const int AvailableTeamsMessage = 19;
 }

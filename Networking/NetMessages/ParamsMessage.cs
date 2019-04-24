@@ -4,7 +4,6 @@ using CaseNetworking;
 [System.Serializable]
 public class ParamsMessage : CaseNetMessage
 {
-    public int nbTeams;
     public int sceneId;
     public List<int> itemIds;
     public int time;
