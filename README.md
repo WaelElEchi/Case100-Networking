@@ -1,4 +1,4 @@
-# Case100API
+# Case100 Networking
 (now deprecated but can still be used if you add UNET package into unity)
 
 A networking library for unity games made using the low level UNET API. 
