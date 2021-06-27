@@ -5,7 +5,6 @@ using UnityEngine.Networking;
 public static class NetUtils
 {
 
-    
     public static string GetNetworkError(byte error)
     {
         if (error != (byte)NetworkError.Ok)
