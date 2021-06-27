@@ -28,13 +28,13 @@ namespace CaseNetworking
             {
                 GameObject msg = Instantiate(messagePrefab, messageContainer);
                 msg.GetComponentInChildren<TextMeshProUGUI>().text = AdminServerManagement.instance.timer.CurrentTimeFormat() + ":" + message;
-                // messages.Add(msg);
+                 messages.Add(msg);
             }
         }
 
         public void Clear()
         {
-            // messages.Clear();
+             messages.Clear();
         }
     }
 }
